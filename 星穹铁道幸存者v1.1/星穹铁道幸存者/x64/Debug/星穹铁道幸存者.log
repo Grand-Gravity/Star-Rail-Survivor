@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(730,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(744,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(847,17): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(848,11): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(852,14): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(858,17): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(859,11): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(964,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1164,16): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1170,17): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1179,20): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1180,21): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1183,22): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1358,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\星穹铁道幸存者\Main.cpp(1360,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  星穹铁道幸存者.vcxproj -> C:\Users\31948\Desktop\C++ Games\星穹铁道幸存者\x64\Debug\星穹铁道幸存者.exe
